@@ -1,0 +1,4 @@
+﻿D:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(514,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(2.23-2.27算法练习.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  N-输出前m大的数据.cpp
+  LINK : 已指定 /LTCG，但不需要生成代码；从链接命令行中移除 /LTCG 以提高链接器性能
+  2.23-2.27算法练习.vcxproj -> D:\BaiduNetdiskWorkspace\C-Code\3.1\x64\Debug\2022春ACM算法与程序设计练习题1.exe
