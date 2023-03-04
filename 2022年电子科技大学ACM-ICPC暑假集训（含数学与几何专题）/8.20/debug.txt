@@ -1,0 +1,7 @@
+正在比较文件 F.out 和 F-STD.OUT
+***** F.out
+ret = 26
+GG
+***** F-STD.OUT
+*****
+

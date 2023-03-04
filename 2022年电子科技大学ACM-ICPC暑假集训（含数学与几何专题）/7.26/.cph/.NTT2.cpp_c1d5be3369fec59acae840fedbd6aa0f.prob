@@ -1,0 +1,1 @@
+{"name":"Local: NTT2","url":"d:\\BaiduNetdiskWorkspace\\C-Code\\2022-UESTC-ICPC-summer-training\\7.26\\NTT2.cpp","tests":[{"id":1659260011554,"input":"2\n2 3\n5 7","output":"10 29"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\BaiduNetdiskWorkspace\\C-Code\\2022-UESTC-ICPC-summer-training\\7.26\\NTT2.cpp","group":"local","local":true}

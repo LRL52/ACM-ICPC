@@ -1,0 +1,43 @@
+{
+  "options": {
+    "env": {
+      "Path": "D:\\Program Files\\MinGW\\bin;${env:Path}"
+    },
+    "shell": {
+      "args": [
+        "/C"
+      ],
+      "executable": "C:\\Windows\\System32\\cmd.exe"
+    }
+  },
+  "tasks": [
+    {
+      "args": [
+        "-std=c++17",
+        "-Wall",
+        "-g",
+        "-DLRL52",
+        "${file}",
+        "-o",
+        "${fileDirname}\\${fileBasenameNoExtension}.exe"
+      ],
+      "command": "D:\\Program Files\\MinGW\\bin\\g++.exe",
+      "group": {
+        "isDefault": true,
+        "kind": "build"
+      },
+      "label": "gcc single file build",
+      "presentation": {
+        "clear": true,
+        "echo": false,
+        "focus": false,
+        "panel": "shared",
+        "reveal": "silent",
+        "showReuseMessage": false
+      },
+      "problemMatcher": "$gcc",
+      "type": "process"
+    }
+  ],
+  "version": "2.0.0"
+}

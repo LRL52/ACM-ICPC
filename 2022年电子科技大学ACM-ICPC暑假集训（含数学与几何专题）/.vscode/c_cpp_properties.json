@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "compilerPath": "D:\\Program Files\\MinGW\\bin\\g++.exe",
+            "cppStandard": "c++17",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "intelliSenseMode": "windows-gcc-x64",
+            "name": "Win32",
+            "configurationProvider": "ms-vscode.makefile-tools",
+            "defines": ["LRL52"]
+        }
+    ],
+    "version": 4
+}

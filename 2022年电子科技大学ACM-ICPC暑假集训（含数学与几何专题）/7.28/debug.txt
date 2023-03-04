@@ -1,0 +1,7 @@
+正在比较文件 H.out 和 H_STD.OUT
+***** H.out
+5
+***** H_STD.OUT
+4
+*****
+
