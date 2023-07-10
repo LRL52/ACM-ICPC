@@ -11,7 +11,9 @@ signed main() {
 	ios::sync_with_stdio(false); cin.tie(nullptr); cout.tie(nullptr);
 	int Task; cin >> Task;
 	while(Task--) { 
-		
+		auto cmp = [&](int a, int b) {
+			return a < b;
+		};
 	}
 	return 0;
 }

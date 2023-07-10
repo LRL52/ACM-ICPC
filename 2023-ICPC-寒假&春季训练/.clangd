@@ -1,0 +1,6 @@
+CompileFlags:
+    Add: [-DLRL52, -std=c++17, -Wall, -Wextra, -Wno-unused-const-variable, -Wno-misleading-indentation]
+    Compiler: /usr/bin/g++
+Diagnostics:
+  ClangTidy:
+    Remove: [readability-misleading-indentation]
